@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592989881 source:c:\users\mikes\c\summer\18_06_2020\octal_to_decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+
