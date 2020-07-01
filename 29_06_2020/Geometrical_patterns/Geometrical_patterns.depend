@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593504977 source:c:\users\mikes\c\summer\18_06_2020\geometrical_patterns\main.c
+	<stdio.h>
+	<stdlib.h>
+
